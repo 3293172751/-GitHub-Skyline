@@ -1,6 +1,6 @@
 # GitHub-Skyline
 
-<video src="skyline.webm" muted="muted" autoplay="autoplay" controls="controls"></video>
+<video src="skyline.webm" ></video>
 
 **我的GitHub贡献图的3D模型**
 
